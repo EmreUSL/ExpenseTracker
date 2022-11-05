@@ -11,6 +11,6 @@
 <img width="330" alt="Ekran Resmi 2022-11-05 22 20 29" src="https://user-images.githubusercontent.com/109242794/200137291-a2967fba-00d5-47cd-94e7-661a85b029e9.png">
 
 ## Add Menu 
-<img width="323" alt="Ekran Resmi 2022-11-05 22 22 49" src="https://user-images.githubusercontent.com/109242794/200137373-369a54f0-1a39-49f4-bd27-56832df993e4.png">
 
-<img width="326" alt="Ekran Resmi 2022-11-05 22 23 15" src="https://user-images.githubusercontent.com/109242794/200137384-3b43f323-8845-4730-a9cb-6afb80f277d4.png">
+![editNew](https://user-images.githubusercontent.com/109242794/200137414-f769fd40-80f9-4d3f-aa2d-b0c7fc3f0c3b.png)  ![editexpense](https://user-images.githubusercontent.com/109242794/200137426-b0cfdad0-8b42-43bd-a2d0-2e0d4d6b634b.png)
+
