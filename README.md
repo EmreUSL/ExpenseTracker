@@ -1,6 +1,6 @@
 # Expense Tracker 
 
- This is an application that allows you to manage your budget.
+ This is an iOS application that allows you to manage your budget.
  
  * I developed the application with Swift language and MVC architecture.
  * I used Storyboard and UIKit for design.
