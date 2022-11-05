@@ -8,5 +8,6 @@
  
  
  ## Main Menu 
- ![mainMenu](https://user-images.githubusercontent.com/109242794/200137222-f537714e-b16f-4822-9405-b595a3cedb87.png)
+<img width="330" alt="Ekran Resmi 2022-11-05 22 20 29" src="https://user-images.githubusercontent.com/109242794/200137291-a2967fba-00d5-47cd-94e7-661a85b029e9.png">
+
 
