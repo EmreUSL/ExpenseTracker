@@ -12,5 +12,5 @@
 
 ## Add Menu 
 
-![editNew](https://user-images.githubusercontent.com/109242794/200137414-f769fd40-80f9-4d3f-aa2d-b0c7fc3f0c3b.png)    ![editexpense](https://user-images.githubusercontent.com/109242794/200137426-b0cfdad0-8b42-43bd-a2d0-2e0d4d6b634b.png)
+![editNew](https://user-images.githubusercontent.com/109242794/200137414-f769fd40-80f9-4d3f-aa2d-b0c7fc3f0c3b.png) &nbsp;&nbsp;![editexpense](https://user-images.githubusercontent.com/109242794/200137426-b0cfdad0-8b42-43bd-a2d0-2e0d4d6b634b.png)
 
