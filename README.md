@@ -5,6 +5,7 @@
  * I developed the application with Swift language and MVC architecture.
  * I used Storyboard and UIKit for design.
  * I used CoreData and UserDefaults to save user data.
+ * The design part was inspired by another app 
  
  
  ## Main Menu 
