@@ -17,3 +17,7 @@
 
 ## Setup Menu 
 ![setup](https://user-images.githubusercontent.com/109242794/200137541-62cd6355-130c-40da-9169-34062529595f.png)
+
+## Example Main Menu 
+![last](https://user-images.githubusercontent.com/109242794/200137614-610c4f2e-f635-4d37-92cf-e3d5eb12bba2.png)
+
