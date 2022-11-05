@@ -1,4 +1,4 @@
-# Expense Tracker Clone
+# Expense Tracker 
 
  This is an application that allows you to manage your budget.
  
